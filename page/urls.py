@@ -7,7 +7,7 @@ urlpatterns = [
     url(r'^player/(?P<id>\d+)/$', views.player, name='players')
 ]
 
-# url(r'^(?:\?id=(?P<id>\d+))?$')
+# url(r'^(?:\?id=(?P<id>\d+))?$')1111
 # url(r'^players/\?id=(?P<id>\d+)$')
 # url(r'^(?:(?P<id>\d+)/)?$')
 # url(r'^players/(?P<id>\d+)/$')
